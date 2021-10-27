@@ -6,11 +6,11 @@ matemático.</p>
 
 <h1>Para correr este ejercicio</h1>
 <ul>
-    <li>Instalar node, recomendable la version estable desde <a href="https://nodejs.org/es/">aqui</> </li>
-    <li>Para verificar que esta instalado abrir una consola de sistema y correr el comando "Node -v", debe salir esta respuesta 
+    <li>Instalar node, recomendable la version estable desde <a href="https://nodejs.org/es/">aqui</></li>
+    <li>Para verificar que esta instalado abrir una consola de sistema y correr el comando <strong>"Node -v"</strong>, debe salir esta respuesta</li>
     <img src="./img/img1.png">
-    </li>
     <li>En caso de no tener git descargarlo desde <a href="https://git-scm.com/downloads"></a></li>
+    <li>para verificar que se instalo, hay que abrir una consola de sistema y correr el siguiente comando <strong>"git --version"</strong>></li>
     <li>Luego de tenet instalado Node, Clonar este repositorio o descargarlo</li>
 </ul>
 
