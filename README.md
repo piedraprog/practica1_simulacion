@@ -8,7 +8,7 @@ matemático.</p>
 <ul>
     <li>Instalar node, recomendable la version estable desde <a href="https://nodejs.org/es/">aqui</> </li>
     <li>Para verificar que esta instalado abrir una consola de sistema y correr el comando "Node -v", debe salir esta respuesta 
-    <img href="./img/img1.png">
+    <img src="./img/img1.png">
     </li>
     <li>En caso de no tener git descargarlo desde <a href="https://git-scm.com/downloads"></a></li>
     <li>Luego de tenet instalado Node, Clonar este repositorio o descargarlo</li>
