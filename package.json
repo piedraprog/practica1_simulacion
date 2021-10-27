@@ -1,0 +1,20 @@
+{
+  "name": "practica1_simulacion",
+  "version": "1.0.0",
+  "description": "practica nro 1 materia de simulacion, programa que demuestra la probabilidad de que una moneda salga cara o sello ",
+  "main": "index.js",
+  "scripts": {
+
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piedraprog/practica1_simulacion.git"
+  },
+  "author": "jose piedra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piedraprog/practica1_simulacion/issues"
+  },
+  "homepage": "https://github.com/piedraprog/practica1_simulacion#readme"
+}
